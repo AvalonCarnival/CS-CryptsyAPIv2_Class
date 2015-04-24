@@ -6,7 +6,7 @@ This class can be used in a Visual Studio dotNet Project to query www.Cryptsy.co
 Trading crypto currencies can be high risk and you can lose money.
 This code is supplied without warranty.
 
-The Class is capable of most of the Cryptsy functions like place and cancel an order, get trading fees etc
+The Class is capable of most of the Cryptsy functions like place and cancel an order, get trading fees etc.
 
 If you find it useful donations to the following Crytpo wallets will be gratefully recieved:
 
