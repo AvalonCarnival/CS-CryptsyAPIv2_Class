@@ -6,7 +6,7 @@ This class can be used in a Visual Studio dotNet Project to query www.Cryptsy.co
 Trading crypto currencies can be high risk and you can lose money.
 This code is supplied without warranty.
 
-The Class is capable of most of the Cryptsy functions like place and cancel an order, get trading fees etc.
+The Class is capable of most of the Cryptsy functions like place and cancel an order, get trading fees etc, enough functions are available to write an auto trading bot.
 
 If you find it useful donations to the following Crytpo wallets will be gratefully recieved:
 
@@ -25,3 +25,5 @@ LiteCoin:	    LUMrftrHV127fhcGy3cBQNPP4LTPgnhqag
 LottoCoin:	  LrGpVRJbZUTF2faCZhbYbHGe4tC4xSCAuT
 
 NobleCoin:	  9iGMQPGm4DedkZuSBcDr5SRHFA8xkxp5ij
+
+This class uses the Cryptsy API v2 (beta) Restful API
